@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-int add(int a,int b)
+int addition(int a,int b)
 {
 	cout<<a+b;
 }
